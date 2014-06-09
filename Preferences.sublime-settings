@@ -10,8 +10,7 @@
 	"ignored_packages":
 	[
 		"Vintage",
-		"Markdown",
-		"Vintageous"
+		"Markdown"
 	],
 	"margin": 0,
 	"rulers":
