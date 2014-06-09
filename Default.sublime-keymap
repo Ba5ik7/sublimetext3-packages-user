@@ -1,0 +1,6 @@
+[
+  { "keys": ["ctrl+alt+l"], "command": "toggle_setting",
+      "args": { "setting": "gutter"} },
+  { "keys": ["ctrl+alt+m"], "command": "toggle_menu" },
+  { "keys": ["ctrl+alt+v"], "command": "toggle_vintageous" }
+]

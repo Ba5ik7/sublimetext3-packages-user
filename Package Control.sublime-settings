@@ -1,0 +1,17 @@
+{
+	"installed_packages":
+	[
+		"ApplySyntax",
+		"Jade",
+		"MarkdownEditing",
+		"SideBarEnhancements",
+		"SideBarGit",
+		"Six - Future JavaScript Syntax",
+		"Solarized Color Scheme",
+		"Stylus",
+		"SublimeLinter",
+		"SublimeLinter-annotations",
+		"SublimeREPL",
+		"Vintageous"
+	]
+}

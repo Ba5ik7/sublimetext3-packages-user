@@ -1,0 +1,27 @@
+{
+	"bold_folder_labels": true,
+	"caret_style": "phase",
+	"color_scheme": "Packages/User/Solarized (dark) (SL).tmTheme",
+	"draw_white_space": "all",
+	"fold_buttons": false,
+	"font_face": "Consolas",
+	"font_size": 9,
+	"gutter": false,
+	"ignored_packages":
+	[
+		"Vintage",
+		"Markdown",
+		"Vintageous"
+	],
+	"margin": 0,
+	"rulers":
+	[
+		80
+	],
+	"scroll_past_end": false,
+	"tab_size": 2,
+	"translate_tabs_to_spaces": true,
+	"use_current_file_syntax": false,
+	"use_tab_stops": true,
+	"vintageous_use_ctrl_keys": true
+}
